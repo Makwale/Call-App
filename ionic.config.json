@@ -1,0 +1,7 @@
+{
+  "name": "Call",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
